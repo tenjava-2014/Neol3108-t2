@@ -1,0 +1,3 @@
+name: Neol3108-t2
+main: com.tenjava.entries.Neol3108.t2.TenJava
+version: '${project.version}'
